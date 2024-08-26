@@ -1,0 +1,53 @@
+.container{
+    background-image: url(./images/bg-desktop.svg);
+     background-color: purple;
+     height: 600px;
+     width: 350px;
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+     font-family: sans-serif;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.images{
+    height: 220px;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.paraa{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    display: grid;
+}
+.paraa p{
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+    text-align: center;
+}
+
+.paraa h5{
+    font-size: medium;
+    text-align: center;
+    justify-content: space-between;
+    font-family: serif;
+    word-spacing: 10px;
+}
+
+.regi{
+            display: inline;
+            padding: 20px 30px;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 25px;
+}
